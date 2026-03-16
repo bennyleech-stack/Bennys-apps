@@ -1,2 +1,0 @@
-# Healthkick
-My app
